@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "id": 1,
+      "username": "ARanganathan01",
+      "name": "Anand Ranganathan",
+      "avatar": "https://example.com/image1.jpg"
+    },
+    "timestamp": "2024-03-22T10:30:00Z",
+    "content": "Just had a great meeting with the team. Excited about the new project we're working on! #teamwork #excited",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "likes": 25,
+    "retweets": 10,
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "id": 2,
+          "username": "janesmith456",
+          "name": "Jane Smith",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:00:00Z",
+        "content": "That's awesome, John! Can't wait to see what you all come up with. #inspired"
+      },
+      {
+        "id": 2,
+        "author": {
+          "id": 3,
+          "username": "samjones789",
+          "name": "Sam Jones",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:30:00Z",
+        "content": "Great news, John! Keep up the good work. #motivated"
+      }
+    ]
+  }
+]

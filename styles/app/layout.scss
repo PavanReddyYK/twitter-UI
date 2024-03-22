@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color: white;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+//   width: 100vw;
+
+  .sidebar-main-wrapper {
+    // background-color: rgb(44, 44, 44);
+    background-color: rgb(0, 0, 0);
+    width: 22%;
+    padding: 1% 0 0 1%;
+    gap: 15px;
+    @media (max-width: 1250px) {
+      width: 62px;
+    }
+  }
+
+  .main-child-wrapper {
+    background-color: black;
+    min-width: 48%;
+    display: flex;
+    border-left: 2px solid rgb(90, 90, 90);
+    border-right: 2px solid rgb(138, 138, 138);
+    @media (max-width: 1250px) {
+      width: 64%;
+    }
+  }
+
+  .widgets-main-wrapper {
+    // background-color: rgb(46, 46, 46);
+    background-color: rgb(0, 0, 0);
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+  }
+}
