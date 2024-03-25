@@ -5,7 +5,8 @@
       "id": 1,
       "username": "ARanganathan01",
       "name": "Anand Ranganathan",
-      "avatar": "https://example.com/image1.jpg"
+      "avatar": "https://example.com/image1.jpg",
+      "verified": true
     },
     "timestamp": "2024-03-22T10:30:00Z",
     "content": "Just had a great meeting with the team. Excited about the new project we're working on! #teamwork #excited",
@@ -15,6 +16,7 @@
     ],
     "likes": 25,
     "retweets": 10,
+    "views": 496,
     "comments": [
       {
         "id": 1,
@@ -37,6 +39,323 @@
         },
         "timestamp": "2024-03-22T11:30:00Z",
         "content": "Great news, John! Keep up the good work. #motivated"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "author": {
+      "id": 1,
+      "username": "SaiDeepak234",
+      "name": "J Sai Deepak",
+      "avatar": "https://example.com/image1.jpg",
+      "verified": false
+    },
+    "timestamp": "2024-02-16T10:30:00Z",
+    "content": "Just had a great meeting with the team. Excited about the new project we're working on! #teamwork #excited",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "likes": 242,
+    "retweets": 99,
+    "views": 686,
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "id": 2,
+          "username": "janesmith456",
+          "name": "Jane Smith",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:00:00Z",
+        "content": "That's awesome, John! Can't wait to see what you all come up with. #inspired"
+      },
+      {
+        "id": 2,
+        "author": {
+          "id": 3,
+          "username": "samjones789",
+          "name": "Sam Jones",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:30:00Z",
+        "content": "Great news, John! Keep up the good work. #motivated"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "author": {
+      "id": 1,
+      "username": "AmitShahBJP",
+      "name": "Amit Shah",
+      "avatar": "https://example.com/image1.jpg",
+      "verified": false
+    },
+    "timestamp": "2024-02-16T10:30:00Z",
+    "content": "Just had a great meeting with the team. Excited about the new project we're working on! #teamwork #excited",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "likes": 742,
+    "retweets": 159,
+    "views": 886,
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "id": 2,
+          "username": "janesmith456",
+          "name": "Jane Smith",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:00:00Z",
+        "content": "That's awesome, John! Can't wait to see what you all come up with. #inspired"
+      },
+      {
+        "id": 2,
+        "author": {
+          "id": 3,
+          "username": "samjones789",
+          "name": "Sam Jones",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:30:00Z",
+        "content": "Great news, John! Keep up the good work. #motivated"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "author": {
+      "id": 1,
+      "username": "NamoModi",
+      "name": "Narendra Modi",
+      "avatar": "https://example.com/image1.jpg",
+      "verified": true
+    },
+    "timestamp": "2024-03-25T12:30:00Z",
+    "content": "Just had a great meeting with the team. Excited about the new project we're working on! #teamwork #excited",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "likes": 942,
+    "retweets": 389,
+    "views": 686,
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "id": 2,
+          "username": "janesmith456",
+          "name": "Jane Smith",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:00:00Z",
+        "content": "That's awesome, John! Can't wait to see what you all come up with. #inspired"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "author": {
+      "id": 1,
+      "username": "jaishanker",
+      "name": "S Jai Shankar",
+      "avatar": "https://example.com/image1.jpg",
+      "verified": true
+    },
+    "timestamp": "2024-02-16T10:30:00Z",
+    "content": "Just had a great meeting with the team. Excited about the new project we're working on! #teamwork #excited",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "likes": 242,
+    "retweets": 99,
+    "views": 686,
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "id": 2,
+          "username": "janesmith456",
+          "name": "Jane Smith",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:00:00Z",
+        "content": "That's awesome, John! Can't wait to see what you all come up with. #inspired"
+      },
+      {
+        "id": 2,
+        "author": {
+          "id": 3,
+          "username": "samjones789",
+          "name": "Sam Jones",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-22T11:30:00Z",
+        "content": "Great news, John! Keep up the good work. #motivated"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "author": {
+      "id": 2,
+      "username": "janesmith456",
+      "name": "Jane Smith",
+      "avatar": "https://example.com/avatar.jpg",
+      "verified": true
+    },
+    "timestamp": "2024-02-17T08:45:00Z",
+    "content": "Just finished a great book! Highly recommend it to everyone. #reading #booklovers",
+    "images": [
+      "https://example.com/image3.jpg",
+      "https://example.com/image4.jpg"
+    ],
+    "likes": 312,
+    "retweets": 123,
+    "views": 798,
+    "comments": [
+      {
+        "id": 3,
+        "author": {
+          "id": 4,
+          "username": "mikeross789",
+          "name": "Mike Ross",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-23T09:15:00Z",
+        "content": "Thanks for the recommendation, Jane! I'll add it to my list. #bookrecommendation"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "author": {
+      "id": 3,
+      "username": "samjones789",
+      "name": "Sam Jones",
+      "avatar": "https://example.com/avatar.jpg",
+      "verified": false
+    },
+    "timestamp": "2024-02-18T15:20:00Z",
+    "content": "Excited to announce our new product launch next week! Stay tuned for updates. #productlaunch #excited",
+    "images": [],
+    "likes": 532,
+    "retweets": 211,
+    "views": 1204,
+    "comments": []
+  },
+  {
+    "id": 4,
+    "author": {
+      "id": 4,
+      "username": "mikeross789",
+      "name": "Mike Ross",
+      "avatar": "https://example.com/avatar.jpg",
+      "verified": true
+    },
+    "timestamp": "2024-02-19T12:00:00Z",
+    "content": "Had a productive day at work today. Making progress on our new project. #productivity #worklife",
+    "images": [],
+    "likes": 187,
+    "retweets": 64,
+    "views": 505,
+    "comments": [
+      {
+        "id": 5,
+        "author": {
+          "id": 5,
+          "username": "davidgreen123",
+          "name": "David Green",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-24T10:45:00Z",
+        "content": "That's great to hear, Mike! Keep up the good work. #workprogress"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "author": {
+      "id": 5,
+      "username": "davidgreen123",
+      "name": "David Green",
+      "avatar": "https://example.com/avatar.jpg",
+      "verified": false
+    },
+    "timestamp": "2024-02-20T09:30:00Z",
+    "content": "Just started learning a new programming language. It's challenging but exciting! #coding #learning",
+    "images": [],
+    "likes": 421,
+    "retweets": 87,
+    "views": 943,
+    "comments": []
+  },
+  {
+    "id": 6,
+    "author": {
+      "id": 1,
+      "username": "SaiDeepak234",
+      "name": "J Sai Deepak",
+      "avatar": "https://example.com/image1.jpg",
+      "verified": false
+    },
+    "timestamp": "2024-02-21T11:10:00Z",
+    "content": "Just had a great meeting with the team. Excited about the new project we're working on! #teamwork #excited",
+    "images": [
+      "https://example.com/image5.jpg",
+      "https://example.com/image6.jpg"
+    ],
+    "likes": 242,
+    "retweets": 99,
+    "views": 686,
+    "comments": [
+      {
+        "id": 6,
+        "author": {
+          "id": 6,
+          "username": "emilybrown789",
+          "name": "Emily Brown",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-25T12:30:00Z",
+        "content": "That's awesome, John! Can't wait to see what you all come up with. #excited"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "author": {
+      "id": 2,
+      "username": "janesmith456",
+      "name": "Jane Smith",
+      "avatar": "https://example.com/avatar.jpg",
+      "verified": true
+    },
+    "timestamp": "2024-02-22T14:45:00Z",
+    "content": "Just finished reading a great book! Highly recommend it to everyone. #reading #booklovers",
+    "images": [],
+    "likes": 312,
+    "retweets": 123,
+    "views": 798,
+    "comments": [
+      {
+        "id": 7,
+        "author": {
+          "id": 7,
+          "username": "jackwilson123",
+          "name": "Jack Wilson",
+          "avatar": "https://example.com/avatar.jpg"
+        },
+        "timestamp": "2024-03-26T09:15:00Z",
+        "content": "Thanks for the recommendation, Jane! I'll add it to my list. #bookrecommendation"
       }
     ]
   }
