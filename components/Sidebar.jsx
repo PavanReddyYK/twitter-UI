@@ -10,19 +10,18 @@ import {
   HomeIcon,
   HashtagIcon,
   BellIcon,
-  InboxIcon,
-  BookmarkIcon,
-  ClipboardListIcon,
   UserIcon,
 } from "@heroicons/react/outline";
+import { AiOutlineSetting } from "react-icons/ai";
+import { IoChatboxEllipsesOutline } from "react-icons/io5";
 
 const iconMapping = {
   explore: HashtagIcon,
   home: HomeIcon,
-  messages: InboxIcon,
+  messages: IoChatboxEllipsesOutline,
   notifications: BellIcon,
   profile: UserIcon,
-  settings: ClipboardListIcon,
+  settings: AiOutlineSetting,
 };
 
 const Sidebar = () => {
@@ -33,11 +32,9 @@ const Sidebar = () => {
       <Button
         className="sidebar-wrapper__button-logo"
         onClick={() => router.push("/")}
-        startContent={
-          <SlSocialTwitter className="icon-logo" />
-        }
+        startContent={<SlSocialTwitter className="icon-logo" />}
       ></Button>
-      
+
       <div className="sidebar-tab-wrapper">
         {common.sidebarTabs.map((tab, key) => {
           const IconComponent = iconMapping[tab.icon];
